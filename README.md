@@ -9,3 +9,12 @@ Com o app intalado no smartphone (lembre-se de permitir aplicativos de terceiros
 acesse as configurações do app e insira o seu endereço ipv4 (esse endereço pode ser acessado através do comando ipconfig no terminal do windows) 
 confirme, posteriormente clique em conectar faça login, veja a disposição das mesas no seu app, a partir desse ponto voçê tem acesso ao sistema 
 atravez do app, voçê pode adicionar e consultar os pedidos das mesas atravez do app!
+
+O Arquivo de conexão localizado em: pdv/MVC/MODEL/conexao.php , está configurado da sguinte forma:
+
+	$servidor = "localhost";
+	$usuario = "root";
+	$senha = "";
+	$dbname = "pdv";
+  
+Altere esses parâmtros se voce definiu outros valores no seu banco de dados!
