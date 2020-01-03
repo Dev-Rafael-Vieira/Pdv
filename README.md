@@ -18,3 +18,4 @@ O Arquivo de conexão localizado em: pdv/MVC/MODEL/conexao.php , está configura
 	$dbname = "pdv";
   
 Altere esses parâmtros se voce definiu outros valores no seu banco de dados!
+![instaclone](https://github.com/Dev-Rafael-Vieira/instaClone/blob/master/instaclone1.png)
