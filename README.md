@@ -18,3 +18,4 @@ O Arquivo de conexão localizado em: pdv/MVC/MODEL/conexao.php , está configura
 	$dbname = "pdv";
   
 Altere esses parâmtros se voce definiu outros valores no seu banco de dados!
+![pdv](https://github.com/Dev-Rafael-Vieira/Pdv/blob/master/pdv-images/1.bmp)
